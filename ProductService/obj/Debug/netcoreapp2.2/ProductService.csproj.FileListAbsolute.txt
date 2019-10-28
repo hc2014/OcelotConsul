@@ -1,0 +1,15 @@
+D:\work\ApiGetWay\ProductService\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\work\ApiGetWay\ProductService\bin\Debug\netcoreapp2.2\appsettings.json
+D:\work\ApiGetWay\ProductService\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\work\ApiGetWay\ProductService\bin\Debug\netcoreapp2.2\ProductService.deps.json
+D:\work\ApiGetWay\ProductService\bin\Debug\netcoreapp2.2\ProductService.runtimeconfig.json
+D:\work\ApiGetWay\ProductService\bin\Debug\netcoreapp2.2\ProductService.runtimeconfig.dev.json
+D:\work\ApiGetWay\ProductService\bin\Debug\netcoreapp2.2\ProductService.dll
+D:\work\ApiGetWay\ProductService\bin\Debug\netcoreapp2.2\ProductService.pdb
+D:\work\ApiGetWay\ProductService\obj\Debug\netcoreapp2.2\ProductService.RazorAssemblyInfo.cache
+D:\work\ApiGetWay\ProductService\obj\Debug\netcoreapp2.2\ProductService.RazorAssemblyInfo.cs
+D:\work\ApiGetWay\ProductService\obj\Debug\netcoreapp2.2\ProductService.AssemblyInfoInputs.cache
+D:\work\ApiGetWay\ProductService\obj\Debug\netcoreapp2.2\ProductService.AssemblyInfo.cs
+D:\work\ApiGetWay\ProductService\obj\Debug\netcoreapp2.2\ProductService.RazorTargetAssemblyInfo.cache
+D:\work\ApiGetWay\ProductService\obj\Debug\netcoreapp2.2\ProductService.dll
+D:\work\ApiGetWay\ProductService\obj\Debug\netcoreapp2.2\ProductService.pdb

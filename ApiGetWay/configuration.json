@@ -1,0 +1,95 @@
+//配置多个服务，通过服务名称来跳转下游地址
+//{
+//  "ReRoutes": [
+//    // API:CAS.ClientService
+//    {
+//      "DownstreamPathTemplate": "/api/{url}",
+//      "DownstreamScheme": "http",
+//      "DownstreamHostAndPorts": [
+//        {
+//          "Host": "localhost",
+//          "Port": "6801"
+//        }
+//      ],
+//      "UpstreamPathTemplate": "/ClientService/{url}",
+//      "UpstreamHttpMethod": [ "Get", "Post" ]
+//    },
+//    // API:CAS.ProductService
+//    {
+//      "DownstreamPathTemplate": "/api/{url}",
+//      "DownstreamScheme": "http",
+//      "DownstreamHostAndPorts": [
+//        {
+//          "Host": "localhost",
+//          "Port": "6885"
+//        }
+//      ],
+//      "UpstreamPathTemplate": "/ProductService/{url}",
+//      "UpstreamHttpMethod": [ "Get", "Post" ]
+//    }
+//  ]
+//}
+
+
+//配置一个服务，服务的下游地址配置多个,访问 网关地址  /apiservice/values  刷新页面每次跳转的地址不同
+//{
+//  "ReRoutes": [
+//    {
+//      "UpstreamPathTemplate": "/apiservice/{controller}",
+//      "UpstreamHttpMethod": [ "Get" ],
+//      "DownstreamPathTemplate": "/api/{controller}",
+//      "DownstreamScheme": "http",
+//      "DownstreamHostAndPorts": [
+//        {
+//          "host": "localhost",
+//          "port": 6801
+//        },
+//        {
+//          "host": "localhost",
+//          "port": 6885
+//        }
+//      ],
+//      "LoadBalancerOptions": {
+//        "Type": "LeastConnection"
+//      }
+//    }
+//  ]
+//}
+
+
+
+//consul
+{
+  "ReRoutes": [
+    {
+      "UseServiceDiscovery": true, 
+      "DownstreamPathTemplate": "/api/{url}",
+      "DownstreamScheme": "http",
+      "ServiceName": "ClientService",
+      "LoadBalancerOptions": {
+        "Type": "RoundRobin"
+      },
+      "UpstreamPathTemplate": "/api/clientservice/{url}",
+      "UpstreamHttpMethod": [ "Get", "Post" ],
+      "ReRoutesCaseSensitive": false 
+    },
+    {
+      "UseServiceDiscovery": true, 
+      "DownstreamPathTemplate": "/api/{url}",
+      "DownstreamScheme": "http",
+      "ServiceName": "ProductService",
+      "LoadBalancerOptions": {
+        "Type": "RoundRobin"
+      },
+      "UpstreamPathTemplate": "/api/productservice/{url}",
+      "UpstreamHttpMethod": [ "Get", "Post" ],
+      "ReRoutesCaseSensitive": false 
+    }
+  ],
+  "GlobalConfiguration": {
+    "ServiceDiscoveryProvider": {
+      "Host": "localhost", 
+      "Port": 8500 
+    }
+  }
+}

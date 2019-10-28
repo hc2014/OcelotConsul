@@ -1,0 +1,17 @@
+D:\work\ApiGetWay\ApiGetWay\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\work\ApiGetWay\ApiGetWay\bin\Debug\netcoreapp2.2\appsettings.json
+D:\work\ApiGetWay\ApiGetWay\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\work\ApiGetWay\ApiGetWay\bin\Debug\netcoreapp2.2\ApiGetWay.deps.json
+D:\work\ApiGetWay\ApiGetWay\bin\Debug\netcoreapp2.2\ApiGetWay.runtimeconfig.json
+D:\work\ApiGetWay\ApiGetWay\bin\Debug\netcoreapp2.2\ApiGetWay.runtimeconfig.dev.json
+D:\work\ApiGetWay\ApiGetWay\bin\Debug\netcoreapp2.2\ApiGetWay.dll
+D:\work\ApiGetWay\ApiGetWay\obj\Debug\netcoreapp2.2\ApiGetWay.RazorAssemblyInfo.cache
+D:\work\ApiGetWay\ApiGetWay\obj\Debug\netcoreapp2.2\ApiGetWay.RazorAssemblyInfo.cs
+D:\work\ApiGetWay\ApiGetWay\obj\Debug\netcoreapp2.2\ApiGetWay.AssemblyInfoInputs.cache
+D:\work\ApiGetWay\ApiGetWay\obj\Debug\netcoreapp2.2\ApiGetWay.AssemblyInfo.cs
+D:\work\ApiGetWay\ApiGetWay\obj\Debug\netcoreapp2.2\ApiGetWay.RazorTargetAssemblyInfo.cache
+D:\work\ApiGetWay\ApiGetWay\bin\Debug\netcoreapp2.2\ApiGetWay.pdb
+D:\work\ApiGetWay\ApiGetWay\obj\Debug\netcoreapp2.2\ApiGetWay.dll
+D:\work\ApiGetWay\ApiGetWay\obj\Debug\netcoreapp2.2\ApiGetWay.pdb
+D:\work\ApiGetWay\ApiGetWay\bin\Debug\netcoreapp2.2\configuration.json
+D:\work\ApiGetWay\ApiGetWay\obj\Debug\netcoreapp2.2\ApiGetWay.csprojAssemblyReference.cache

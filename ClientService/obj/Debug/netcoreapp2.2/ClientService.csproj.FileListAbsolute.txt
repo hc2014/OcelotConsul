@@ -1,0 +1,16 @@
+D:\work\ApiGetWay\ClientService\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\work\ApiGetWay\ClientService\bin\Debug\netcoreapp2.2\appsettings.json
+D:\work\ApiGetWay\ClientService\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\work\ApiGetWay\ClientService\bin\Debug\netcoreapp2.2\ClientService.deps.json
+D:\work\ApiGetWay\ClientService\bin\Debug\netcoreapp2.2\ClientService.runtimeconfig.json
+D:\work\ApiGetWay\ClientService\bin\Debug\netcoreapp2.2\ClientService.runtimeconfig.dev.json
+D:\work\ApiGetWay\ClientService\bin\Debug\netcoreapp2.2\ClientService.dll
+D:\work\ApiGetWay\ClientService\bin\Debug\netcoreapp2.2\ClientService.pdb
+D:\work\ApiGetWay\ClientService\obj\Debug\netcoreapp2.2\ClientService.RazorAssemblyInfo.cache
+D:\work\ApiGetWay\ClientService\obj\Debug\netcoreapp2.2\ClientService.RazorAssemblyInfo.cs
+D:\work\ApiGetWay\ClientService\obj\Debug\netcoreapp2.2\ClientService.AssemblyInfoInputs.cache
+D:\work\ApiGetWay\ClientService\obj\Debug\netcoreapp2.2\ClientService.AssemblyInfo.cs
+D:\work\ApiGetWay\ClientService\obj\Debug\netcoreapp2.2\ClientService.RazorTargetAssemblyInfo.cache
+D:\work\ApiGetWay\ClientService\obj\Debug\netcoreapp2.2\ClientService.dll
+D:\work\ApiGetWay\ClientService\obj\Debug\netcoreapp2.2\ClientService.pdb
+D:\work\ApiGetWay\ClientService\obj\Debug\netcoreapp2.2\ClientService.csprojAssemblyReference.cache

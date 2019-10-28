@@ -1,0 +1,16 @@
+D:\work\ApiGetWay\HealthCheck\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\work\ApiGetWay\HealthCheck\bin\Debug\netcoreapp2.2\appsettings.json
+D:\work\ApiGetWay\HealthCheck\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\work\ApiGetWay\HealthCheck\bin\Debug\netcoreapp2.2\HealthCheck.deps.json
+D:\work\ApiGetWay\HealthCheck\bin\Debug\netcoreapp2.2\HealthCheck.runtimeconfig.json
+D:\work\ApiGetWay\HealthCheck\bin\Debug\netcoreapp2.2\HealthCheck.runtimeconfig.dev.json
+D:\work\ApiGetWay\HealthCheck\bin\Debug\netcoreapp2.2\HealthCheck.dll
+D:\work\ApiGetWay\HealthCheck\obj\Debug\netcoreapp2.2\HealthCheck.RazorAssemblyInfo.cache
+D:\work\ApiGetWay\HealthCheck\obj\Debug\netcoreapp2.2\HealthCheck.RazorAssemblyInfo.cs
+D:\work\ApiGetWay\HealthCheck\obj\Debug\netcoreapp2.2\HealthCheck.AssemblyInfoInputs.cache
+D:\work\ApiGetWay\HealthCheck\obj\Debug\netcoreapp2.2\HealthCheck.AssemblyInfo.cs
+D:\work\ApiGetWay\HealthCheck\obj\Debug\netcoreapp2.2\HealthCheck.RazorTargetAssemblyInfo.cache
+D:\work\ApiGetWay\HealthCheck\bin\Debug\netcoreapp2.2\HealthCheck.pdb
+D:\work\ApiGetWay\HealthCheck\obj\Debug\netcoreapp2.2\HealthCheck.dll
+D:\work\ApiGetWay\HealthCheck\obj\Debug\netcoreapp2.2\HealthCheck.pdb
+D:\work\ApiGetWay\HealthCheck\obj\Debug\netcoreapp2.2\HealthCheck.csprojAssemblyReference.cache
